@@ -7,7 +7,7 @@
 }
 .body{
   margin: 0;
-  padding-top: 130px; /* 헤더 높이만큼 위쪽 공간 확보 */
+  padding-top: 115px; /* 헤더 높이만큼 위쪽 공간 확보 */
 }
 .premium_div, .upcycling_div, .minimal_div {
   background-size: cover;
